@@ -1,4 +1,4 @@
-# Stranger Things Portal (Augmented Reality to the Upside Down)
+# Stranger Things Portal (to the Upside Down)
 
 A simple ARKit + Unity Portal implementation of the Upside Down in Stranger Things.
 
