@@ -5,9 +5,9 @@ A simple ARKit + Unity Portal implementation of the Upside Down in Stranger Thin
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/foliotopher.appspot.com/o/st.gif?alt=media&token=c7c12ff6-974c-428d-8e9c-d3bff70729d5)
 
 ## Background
-I was looking around for some cool ARKit + Portal tutorial and stumbled upon this awesome Youtuber <a href="https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw">Matthew Hallberg</a> who has tons of creative Augmented and Virtual Reality content.
+I was looking around for some cool ARKit Portal tutorial and stumbled upon this awesome Youtuber <a href="https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw">Matthew Hallberg</a> who has tons of creative Augmented and Virtual Reality content.
 
-Made with Unity, this project was created following one of his <a href="https://www.youtube.com/watch?v=Z5AmqMuNi08">ARKit Tutorials</a>. Do check out and support his channel.
+Built with ARKit + Unity, this project was created following one of his <a href="https://www.youtube.com/watch?v=Z5AmqMuNi08">ARKit Tutorials</a>. Do check out and support his channel.
 
 ## Technologies
 
